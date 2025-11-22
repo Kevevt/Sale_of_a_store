@@ -32,7 +32,6 @@ Al analizar la facturación bruta y el ingreso neto, la **Tienda 4** se posicion
 > **Insight:** La Tienda 4 es la única que no alcanza el umbral competitivo de ingresos netos del grupo.
 
 ![Facturación](img/facturacion.png)
-*(Asegúrate de que tu imagen se llame 'facturacion.png' o cambia este nombre)*
 
 ---
 
@@ -42,7 +41,6 @@ Se realizó un desglose profundo por categorías para entender la composición d
 * **Impacto:** Al no vender productos de "Ticket Alto", su facturación total se desploma, a pesar de mantener un buen volumen de ventas en productos menores (Muebles, Accesorios).
 
 ![Categorías](img/categorias.png)
-*(Asegúrate de que tu imagen se llame 'categorias.png')*
 
 ---
 
@@ -52,7 +50,6 @@ Antes de sugerir la venta, se validó que el problema **NO** fuera operativo. Lo
 * **Servicio:** Mantiene una calificación de **4.0**, en paridad con el resto del grupo.
 
 ![Envíos](img/envios.png)
-*(Asegúrate de que tu imagen se llame 'envios.png')*
 
 ---
 
